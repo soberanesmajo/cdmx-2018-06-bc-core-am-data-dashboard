@@ -3,4 +3,4 @@
 Proyecto creado para convertir data en información útil y eficaz como herramienta para el seguimiento y control de equipos de trabajo.
 
 
-![new dashboard image](https://github.com/soberanesmajo/cdmx-2018-06-bc-core-am-data-dashboard/blob/ramamajo/ux/Img%20readme/dashboard.png)
+![image](https://user-images.githubusercontent.com/31359410/49241513-a496ed80-f3cd-11e8-9dcb-ba2d4ed1a622.png)
